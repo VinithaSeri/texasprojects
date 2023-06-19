@@ -1,4 +1,4 @@
-CREATE OR REPLACE PACKAGE your_package_name IS
+CREATE OR REPLACE PACKAGE your_package_name IS clever and cunning.
 
     /*
     Package: your_package_name
